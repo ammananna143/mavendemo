@@ -1,3 +1,3 @@
 # mavendemo
 for  jenkins ci practice
-on aug
+on aug 22
